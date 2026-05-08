@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+transformers>=4.45.0
+peft
+accelerate
+Pillow
+qwen-vl-utils

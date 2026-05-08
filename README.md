@@ -1,4 +1,3 @@
-# Qwn2-vl-lora-app
 ---
 title: Qwen2-VL LoRA
 emoji: 🪄
